@@ -2,6 +2,7 @@
 In this project, we implemented the AVL tree with all of its operations and displayed it visually.
 
 AVL operations included: 
+
 1.Insert Element into the tree.
 
 2.Remove Element from the tree.
